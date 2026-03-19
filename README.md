@@ -285,11 +285,3 @@ This platform demonstrates:
 ---
 
 
-## 👥 Team Members
-
-**StartupOps Product Team**
-
-- Anuj Sharma
-- Harshvardhan Singh Bhadoria
-- Tanushka Tomar
-- Khushboo Khator
